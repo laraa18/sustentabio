@@ -1,0 +1,102 @@
+
+section.carousel {
+    min-height: 300px;
+    background-image: url('../img/banner2.png');
+    width: 100%;
+    background-size: cover;
+
+}
+
+body {
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.navbar {
+    height: 150px;
+    color: #506266;
+
+}
+
+.titlee {
+    font-family: 'Dancing Script';
+    font-size :xx-large
+}
+
+.navbar-brand{
+    font-size: x-large;
+
+}
+
+.depoimento{ 
+    padding: 30px;
+    
+}
+
+h2 {
+
+    font-weight: bolder;
+}
+
+.bc {
+ 
+    background-image: url('../img/img/fundd.jpg');
+    padding: 30px;
+    min-height: 155px;
+    width: 100%;
+    background-size: cover;
+    color:#043038;
+    font-weight: bold;
+}
+
+.ops {
+    background-color: white;
+    border-radius: 25px;
+    border-color: #10454f;
+    color: #10454f;
+    font-size: large;
+    font-weight: bold;
+}
+.ops a:hover {
+    color: white;
+}
+
+.ops:hover {
+    background-color: #10454f;
+    color: white;
+    border: white;
+}
+
+a {
+    color:#10454f;
+    text-decoration: none;
+    
+}
+
+div.ws {
+    text-align: left;
+
+}
+
+.fr {
+    background-color: #0D1118;
+    width: 100%;
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+
+}
+
+h5 {
+    font-weight: bolder;
+}
+
+h3 {
+    color:#359721;
+    font-weight: bolder;
+}
+
